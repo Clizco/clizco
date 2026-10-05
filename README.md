@@ -52,6 +52,9 @@ Currently, I am focused on growing as a Software Engineer while expanding my kno
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge\&logo=nginx)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)
 
 ---
 
@@ -71,6 +74,24 @@ npm install express-audit-trail
 ---
 
 ## 📌 Featured Projects
+
+### 🚚 GetPack — Logistics & Commerce Platform
+
+Platform in production in Panama: package shipping and tracking, a merchant marketplace, a driver network, loyalty points and in-app payments — with a web admin panel and iOS/Android apps.
+
+**Tech Stack:** Node.js · Express · MariaDB · Socket.io · React · TypeScript · Capacitor · Firebase · Docker
+
+**Highlights:**
+
+* 123 integration tests against a real MariaDB, run in CI on every push
+* Payments with Yappy confirmed only through a verified server-side webhook
+* Custom migration runner with per-file transactions and checksums
+* Real-time support chat, 7 background jobs and self-hosted over-the-air app updates
+* Coverage zones drawn as map polygons that drive delivery pricing
+
+🔗 [admin-get](https://github.com/Clizco/admin-get) — admin panel + full platform write-up
+
+---
 
 ### 🚗 Koli — Fleet & Workshop Management
 
@@ -105,30 +126,6 @@ Asset management system for an art and asset collection, with fine-grained permi
 * Public app + admin panel, deployed behind Nginx with HTTPS
 
 🔒 Private client project
-
----
-
-### 🚚 GetPack Platform
-
-Logistics and package management platform focused on shipment tracking, customer management, affiliate operations, and administrative workflows.
-
-**Tech Stack:**
-
-* React
-* TypeScript
-* Node.js
-* Express.js
-* MariaDB
-* JWT Authentication
-
-**Features:**
-
-* Package Tracking
-* User Management
-* Affiliate Management
-* Driver Management
-* Vehicle Inspections
-* Administrative Dashboard
 
 ---
 
