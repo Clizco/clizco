@@ -167,14 +167,4 @@ Built with React, Node.js, Express.js, and MariaDB.
 * Build More Scalable Applications
 * Contribute to Open Source Projects
 
----
-
-## 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-clizco-181717?style=for-the-badge\&logo=github)](https://github.com/clizco)
-
-[![Instagram](https://img.shields.io/badge/Instagram-abrahamontopp-E4405F?style=for-the-badge\&logo=instagram)](https://instagram.com/abrahamontopp)
-
----
-
 ⭐ Thanks for visiting my profile!
