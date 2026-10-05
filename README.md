@@ -57,6 +57,42 @@ Currently, I am focused on growing as a Software Engineer while expanding my kno
 
 ## 📌 Featured Projects
 
+### 🚗 Koli — Fleet & Workshop Management
+
+Production platform that runs the daily operations of a vehicle fleet: inventory, entry/exit inspections, workshop reports, mileage, drivers, clients and exit orders, with a full audit trail of every change.
+
+**Tech Stack:** React 19 · TypeScript · Vite · Node.js · Express · MariaDB · JWT · Nginx · PM2
+
+**Highlights:**
+
+* 18 REST API modules
+* Audit-log middleware that records every change with user, IP and a JSON diff
+* Image and document uploads per vehicle and driver
+* Public client app + internal operations dashboard
+* 3-tier deployment on DigitalOcean (web · API · database) with HTTPS
+
+🔗 [garage-backend](https://github.com/Clizco/garage-backend) · [garage-frontend](https://github.com/Clizco/garage-frontend)
+
+---
+
+### 🖼️ Davinci — Asset & Art Collection Management
+
+Asset management system for an art and asset collection, with fine-grained permissions and AI features.
+
+**Tech Stack:** React 19 · TypeScript · Node.js · Express · MariaDB · OpenAI API · Sharp
+
+**Highlights:**
+
+* Role-based access control (RBAC) with 45 permissions organized by module
+* OpenAI integration for AI-assisted features
+* Automatic image thumbnails with Sharp
+* Reports, locations, categories and renovation-work tracking (priority, status, budget)
+* Public app + admin panel, deployed behind Nginx with HTTPS
+
+🔒 Private client project
+
+---
+
 ### 🚚 GetPack Platform
 
 Logistics and package management platform focused on shipment tracking, customer management, affiliate operations, and administrative workflows.
