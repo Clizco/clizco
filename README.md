@@ -55,6 +55,21 @@ Currently, I am focused on growing as a Software Engineer while expanding my kno
 
 ---
 
+## 📦 Open Source
+
+### [express-audit-trail](https://github.com/Clizco/express-audit-trail)
+
+[![npm](https://img.shields.io/npm/v/express-audit-trail?color=cb3837&logo=npm)](https://www.npmjs.com/package/express-audit-trail)
+[![CI](https://github.com/Clizco/express-audit-trail/actions/workflows/ci.yml/badge.svg)](https://github.com/Clizco/express-audit-trail/actions/workflows/ci.yml)
+
+Automatic audit logging middleware for Express — records who created, updated or deleted what, when and from where. Pluggable storage (MySQL/MariaDB, memory or custom), secret redaction, TypeScript and zero dependencies. Extracted from the Koli production platform.
+
+```bash
+npm install express-audit-trail
+```
+
+---
+
 ## 📌 Featured Projects
 
 ### 🚗 Koli — Fleet & Workshop Management
