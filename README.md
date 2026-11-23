@@ -1,16 +1,14 @@
-
 <div align="center">
 
-# Abraham Gonzalez
+<img src="./abraham-gta-vi-github-banner.png" alt="Abraham Gonzalez — GTA VI inspired Software Engineer banner" width="100%" />
 
-### Software Engineer | Full-Stack & Backend Developer
+<br>
 
 **Building reliable software, scalable systems, and solutions that solve real-world problems.**
 
 📍 Santander, Spain · 🌎 Originally from Venezuela
 
 [![GitHub](https://img.shields.io/badge/GitHub-Clizco-181717?style=flat-square&logo=github)](https://github.com/Clizco)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/)
 
 </div>
 
