@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./abraham-gta-vi-github-banner.png" alt="Abraham Gonzalez — GTA VI inspired Software Engineer banner" width="100%" />
+<img src="./abraham-profile-banner.svg" alt="Abraham Gonzalez — Software Engineer neon city profile banner" width="100%" />
 
 <br>
 
