@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./abraham-profile-banner.svg" alt="Abraham Gonzalez — Software Engineer neon city profile banner" width="100%" />
+<img src="./a_wide_neon_retro_synthwave_banner_scene_no_gta.png" alt="Abraham Gonzalez — Software Engineer neon city profile banner" width="100%" />
 
 <br>
 
